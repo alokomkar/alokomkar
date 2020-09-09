@@ -28,6 +28,6 @@ Android Engineer with expertise of completing and planning out 6+ android apps. 
 
 <div><p>My profile overview: </p></div>
 
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=alokomkar&show_icons=true)
+![Alok's github stats](https://github-readme-stats.vercel.app/api?username=alokomkar&show_icons=true)
 <br />
 <br />

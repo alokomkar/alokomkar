@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I am [Alok Gudikote](https://alokomkar.github.io)
+### Hi there 👋 I am [Alok Gudikote](https://www.practicecode.dev/p/about-me.html)
 
 <a href="https://www.linkedin.com/in/alokgudikote/">
   <img align="left" alt="Alok's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

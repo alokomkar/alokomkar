@@ -19,7 +19,11 @@
 <div>
  <p>
 
-Android Engineer with expertise of completing and planning out 6+ android apps. My latest love is Kotlin and have used Dagger, TDD, MVP, MVVM, RxJava, Retrofit, Firebase, Parse, Realm, FCM notifications, Room and lifecycle aware components to great success in projects. I am currently involved in Flutter.
+Android Engineer with expertise of completing and planning out 6+ android apps. My latest love is Kotlin and have used Dagger, TDD, MVP, MVVM, RxJava, Retrofit, Firebase, Parse, Realm, FCM notifications, Room and lifecycle aware components to great success in projects. Here's my learning list :
+  
+  1. Dagger Hilt
+  2. Jetpack Compose
+  3. Kotlin Coroutines
 
 </h4>
 </div>

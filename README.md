@@ -5,7 +5,7 @@
 ---
 
 ## Executive Summary
-Certified Associate Android Developer with 12+ years of expertise in high-scale mobile architecture and team leadership. Proven track record of spearheading complex feature modules from greenfield design to production. Expert in Kotlin, Jetpack Compose, and Modern Android Architecture, with a specialized focus on engineering quality, accessibility (ADA), and performance optimization.
+Certified Senior Android Developer with 12+ years of expertise in high-scale mobile architecture and team leadership. Proven track record of spearheading complex feature modules from greenfield design to production. Expert in Kotlin, Jetpack Compose, and Modern Android Architecture, with a specialized focus on engineering quality, accessibility (ADA), and performance optimization.
 
 ## Technical Expertise
 * **Languages:** Kotlin, Core Java.

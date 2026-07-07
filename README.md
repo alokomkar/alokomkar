@@ -20,7 +20,7 @@ Certified Senior Android Developer with 12+ years of expertise in high-scale mob
 ## Professional Experience
 
 ### **Walmart GTS India Ltd.** | Senior Software Engineer
-*February 2023 – Present*
+*February 2023 – June 2026*
 
 * **Lead Module Ownership:** Exercise end-to-end technical leadership over the Membership platform, driving features like the Activity Tracker and Savings Dashboard targeting significant annual member retentions.
 * **Architecture Documentation:** Scaled team efficiency by authoring comprehensive architecture diagrams and documentation for the full domain module graph.
